@@ -26,8 +26,8 @@ Welcome to my SQL interview preparation repository.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       |   0    |
-| Medium     |   0    |
+| Easy       |   12   |
+| Medium     |   3    |
 | Hard       |   0    |
 
 ---
